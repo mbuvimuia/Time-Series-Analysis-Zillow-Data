@@ -28,3 +28,24 @@ The columns are:
 - Date columns that run from  1996-04 to 2018-04: Real estate prices for each month
 
 
+## Conclusion
+* Market Dynamics: The real estate market exhibits significant geographic disparities in terms of property count, average median house prices, and ROI. California dominates the market, followed by New York and Texas.
+* Price Trends: Historical data reveals a general upward trend in real estate prices with a notable peak around 2006, followed by a decline and subsequent recovery.
+* ROI Variability: Return on Investment (ROI) varies significantly across cities and timeframes, emphasizing the complex nature of real estate investments. 
+* Data Stationarity: The time series data is stationary, which is essential for accurate time series modeling.
+* Seasonal Patterns: No significant seasonal patterns were observed in the data.
+* Model Performance: The ARIMA(2,1,0) model demonstrated superior performance compared to the baseline ARIMA(1,0,0) model, effectively capturing the underlying patterns in the data.
+
+## Recommendations
+* Target High-Growth Regions: Given the substantial variations in ROI across cities, prioritize investment in regions with consistently high historical returns, such as Palo Alto and Water Mill.
+* Diversify Investment Portfolio: To mitigate risks associated with real estate investments, consider diversifying across different geographic locations and property types.
+* Long-Term Investment Horizon: The analysis suggests that longer investment horizons might yield higher returns, although this varies across cities.
+* Continuous Monitoring: Regularly monitor market trends and adjust investment strategies accordingly.
+* Risk Assessment: Conduct thorough risk assessments for each investment opportunity, considering factors such as economic indicators, demographic changes, and local market conditions
+
+# Next steps
+* Incorporate External Factors: Expand the analysis by incorporating macroeconomic indicators (e.g., interest rates, GDP) to improve forecast accuracy.
+* Advanced Modeling Techniques: Explore advanced time series models (e.g., SARIMA, LSTM) to capture complex patterns in the data.
+* Risk Modeling: Develop a comprehensive risk assessment framework to quantify investment risks.
+* Portfolio Optimization: Utilize optimization techniques to construct optimal investment portfolios based on risk and return preferences.
+* Real-Time Data Integration: Establish a system for real-time data ingestion to enable timely decision-making.
