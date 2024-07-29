@@ -49,3 +49,6 @@ The columns are:
 * Risk Modeling: Develop a comprehensive risk assessment framework to quantify investment risks.
 * Portfolio Optimization: Utilize optimization techniques to construct optimal investment portfolios based on risk and return preferences.
 * Real-Time Data Integration: Establish a system for real-time data ingestion to enable timely decision-making.
+
+# Trello Link
+https://trello.com/b/JTac8Mqq/phase-4-group-project
