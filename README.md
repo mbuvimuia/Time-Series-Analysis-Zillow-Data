@@ -2,14 +2,14 @@
 
 ## Project Description
 ## Overview / Background 
-In the competitive world of real estate investment, making informed decisions is crucial for maximizing returns and minimizing risks. The real estate market is influenced by numerous factors, including economic conditions, demographic trends, and local market dynamics. For a fictional real-estate investment firm looking to expand its portfolio, identifying the most promising zip codes for investment requires a data-driven approach. This project aims to analyze historical housing data to identify trends and patterns that can inform investment decisions. By developing a predictive model, we aim to forecast future returns on investment (ROI) for different zip codes, providing valuable insights for prospective investors.
+In the competitive world of real estate investment, making informed decisions is crucial for maximizing returns and minimizing risks. The real estate market is influenced by numerous factors, including economic conditions, demographic trends, and local market dynamics. This project aims to analyze historical housing data to identify trends and patterns that can inform investment decisions. By developing a predictive model, we aim to forecast future returns on investment (ROI) for different zip codes, providing valuable insights for prospective investors.
 
 # Problem Statement
 The real estate market is experiencing unpredictable fluctuations in property prices. This uncertainty makes it difficult for prospective investors to make informed decisions about investing in property. The company needs to find an informed way to decide on which properties to invest in.
 
 # Objectives
 
-1. To analyze the zillow housing dataset, identify key patterns, trends and relatioships in the data and yeild visualizations that will aid in data-driven decisions.
+1. To analyze the zillow housing dataset, identify key patterns, trends and relationships in the data and yield visualizations that will aid in data-driven decisions.
 2. To develop a predictive timeseries model that will forecast return on investment(ROI) of the various Zip codes.
 
 ## Data Sources
